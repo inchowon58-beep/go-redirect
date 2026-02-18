@@ -1,5 +1,9 @@
-﻿{
+{
+  "version": 2,
   "rewrites": [
-    { "source": "/go", "destination": "/api/go" }
+    {
+      "source": "/go",
+      "destination": "/api/go"
+    }
   ]
 }
