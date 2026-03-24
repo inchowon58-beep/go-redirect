@@ -25,4 +25,3 @@ export default function handler(req, res) {
     res.setHeader("Referrer-Policy", "no-referrer");
     return res.redirect(302, targetUrl);
   }
-  
